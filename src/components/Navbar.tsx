@@ -3,7 +3,7 @@ const Navbar = () => {
       <div className="sticky top-0 bg-opacity-70 backdrop-blur-sm bg-[#232323] flex py-3 px-4 justify-between">
         <img
           className="h-5 w-13 mt-[2px] mr-5"
-          src="src/assets/gww.png"
+          src="/gww.png"
           alt="logo"
         />
         <ul>
